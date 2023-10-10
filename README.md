@@ -1,10 +1,7 @@
 <h1 align="center">Opencart Website Testing Project</h1>
 
-![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/5fe7eb42-aef0-40a4-a2bb-9fe82953c547)
-
 <p align="center">
-  <img src="![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/5fe7eb42-aef0-40a4-a2bb-9fe82953c547)
-.png" alt="Opencart Logo">
+  <img src="D:\OpeCart Logo Link" alt="Opencart Logo">
 </p>
 
 
