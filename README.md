@@ -80,9 +80,15 @@
 
 ---
 
-<p align="center">
-  <strong>🚀 Getting Started</strong>
-</p>
+## :busts_in_silhouette: Connect with Me
+
+If you'd like to learn more about me or get in touch, feel free to visit my profiles:
+
+- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+
+Let's connect and discuss all things tech and testing!
+
 
 
 
