@@ -86,7 +86,9 @@ If you'd like to learn more about me or get in touch, feel free to visit my prof
 
 - **GitHub:** [anuja-gadade1
 ](https://github.com/anuja-gadade1)
-- **LinkedIn:** [Anuja Gadade](www.linkedin.com/in/anuja-gadade-4a7874280)
+- **LinkedIn:** [Anuja Gadade](www.linkedin.com/in/anuja-gadade-4a7874280
+
+)
 
 Let's connect and discuss all things tech and testing!
 
