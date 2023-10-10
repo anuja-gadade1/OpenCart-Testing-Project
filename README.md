@@ -51,10 +51,8 @@
    - Wish List (TS_009)
    - Shopping Cart (TS_010)
 
-<p align="center">
-  <img src="![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/45077be6-82b8-4e6f-9ca3-b04868e9525c)
-" alt="Test Scenarios">
-</p>
+![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/4950243a-4e72-407d-86ec-6b834b7d1ab9)
+
 
 ---
 
@@ -66,10 +64,8 @@
   We've meticulously designed and executed 507 test cases to ensure Opencart's functionality and user experience reach unparalleled levels of excellence.
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/2c216936-4c62-4a2f-a634-4dbd80b6031b)
-" alt="Test Cases">
-</p>
+![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/3239d0a4-cfb9-43de-92b8-8c33fafe0386)
+
 
 ---
 
@@ -81,10 +77,8 @@
   In our relentless pursuit of perfection, we've identified and documented 31 issues. Dive into the <a href="bug-report.md">Bug Report</a> for an in-depth look at these challenges, including reproduction steps and their impact on the website.
 </p>
 
-<p align="center">
-  <img src="![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/35286f6e-5b7c-4f4d-a2ce-d1fb02f7a1ac)
-" alt="Bugs">
-</p>
+![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/7535f885-5b32-42ab-a755-87b6bbb68cb2)
+
 
 ---
 
@@ -92,7 +86,5 @@
   <strong>🚀 Getting Started</strong>
 </p>
 
-<p align="center">
-  Getting involved is easy:
-</p>
+
 
