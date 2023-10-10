@@ -1,10 +1,12 @@
 <h1 align="center">Opencart Website Testing Project</h1>
 
 <p align="center">
-  <img src="![opencart-logo-png-6-compressor](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/fe9d161f-2a81-44b8-8203-af60b8273dda.png)
+  <img src="![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/b9f85672-7402-4271-bda0-c63a1ded0735)
 " alt="Opencart Logo">
 </p>
 
+
+![image](https://github.com/anuja-gadade1/OpenCart-Testing-Project/assets/141853896/b9f85672-7402-4271-bda0-c63a1ded0735)
 
 <p align="center"><i>Comprehensive Testing for Seamless E-commerce</i></p>
 
